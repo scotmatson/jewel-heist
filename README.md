@@ -1,8 +1,9 @@
 jewel-heist
 ===========
 
-Endless runner style game themed after the idea that you are a jewel thief leaping from rooftop-to-rooftop collecting/stealing
-gems. 
+Endless runner style game themed after the idea that you are a jewel thief leaping from rooftop-to-rooftop collecting/stealing gems. 
+
+Note: This runs fine on my laptop but has a lot of stuttering and delay when I attempt to play it at work. Most likely due to the large number of objects which exist at one time in the game world.
 
 TODO
 ====
@@ -27,5 +28,10 @@ Some airborne elements would be nice, perhaps helicopters that appear to be shoo
 
 Credit
 ======
-Thanks to Balmer of opengameart.org for providing a great collection of sprites. This probably wasn't how you expected your
-blue-pants-man to be used but his run is great for this type of game.
+Thanks to Balmer for providing a great collection of sprites. This probably wasn't how you expected your
+blue-pants-man to be used but his run is great for this type of game. http://opengameart.org/content/hero-spritesheets-ars-notoria.
+
+Thanks to the team at http://www.custommapmakers.org/skyboxes.php for maintaining such a dedicated list of quality resources. The skybox I pulled really enhanced the environmental feel of disparity.
+
+The mass of buildings were an asset uploaded to the Unity store by Yemelyan K. https://www.assetstore.unity3d.com/en/#!/content/13925. Great models and textures.
+
